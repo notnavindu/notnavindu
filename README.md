@@ -6,7 +6,6 @@ Instead of putting fancy graphics of my github stats, I decided to make a game f
 
 
 <div align="center">
-  <h2>Bio Hexle</h2>
   <img src="https://bio-hexle.vercel.app/api/hexle" />
   <br/><br/>
   <h4>Add a digit</h4>
